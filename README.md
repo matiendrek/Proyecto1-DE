@@ -1,3 +1,6 @@
+El proyecto consistió en simular un ambiente de trabajo como data engineer, extrayendo cuatro archivos en formato csv de distintas plataformas para ver películas y series (Amazon, Netflix, Hulu y Disney) a los cuales tuvimos que aplicar el proceso de extracción, transformación y limpieza(E.T.L.) usando Python y su famosa librería "Pandas".
+Una vez realizadas las consultas correspondientes a los dataframes finales (como se solicito en la consigna), pasamos a conectar todas las estructuras de código a una Api, mediante FastApi, para disponibilizar toda la información, hacerla publica y que se la pueda consultar de manera sencilla.
+
 # Video
 **`Video Demostrativo`** de ***5 minutos*** explicando el trabajo realizado durante este proyecto. <a href=https://drive.google.com/file/d/1prpZ41ZMJeMGFSdmkGXTFen9Q-aLo5KI/view?usp=share_link</a> </strong>
 
